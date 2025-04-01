@@ -27,12 +27,11 @@
     }
     else 
     {
-        //Redirect to manage food page
+        //Redirect to manage food Page
         header('location: admin/manage_food.php');    
         
     }
 ?>
-
 
 <div class="main-content">
     <div class="wrapper">
